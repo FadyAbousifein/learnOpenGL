@@ -7,8 +7,7 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow* window); 
 
 int main()
-{
-    // Initialize GLFW library
+{ // Initialize GLFW library
     glfwInit(); 
 
     // GLFW requests from the graphics driver a OpenGL 3.3 context
