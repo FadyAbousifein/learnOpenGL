@@ -1,6 +1,6 @@
 [
   {
-    "directory": "/home/fady/learnOpenGL/helloWindow/",
+    "directory": "/home/fady/learnOpenGL/helloTriangle/",
     "command": "g++ -std=c++20 -Iinclude src/main.cpp glad.c -lglfw -lGL -o program",
     "file": "src/main.cpp"
   }
